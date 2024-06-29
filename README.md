@@ -40,7 +40,7 @@ sudo docker compose up -f docker-compose.production.yml up
 В продакшене использовать <strong>docker-compose.production.yml</strong> для получения готовых образов с Docker Hub.
 
 ## Статус
-![Workflow Status](https://github.com/Dima4240430/kittygram_final/actions/workflows/Kittygram workflow.yml/badge.svg)
+![Workflow Status](https://github.com/Dima4240430/kittygram_final/actions/workflows/Kittygram-workflow.yml/badge.svg)
 
 
 
